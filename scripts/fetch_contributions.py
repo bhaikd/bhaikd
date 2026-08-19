@@ -2,6 +2,8 @@ import os
 import sys
 import json
 import re
+import requests
+from bs4 import BeautifulSoup
 from datetime import datetime, date, timezone
 
 def fetch_contributions(username="bhaikd", output_file="data/contributions.json"):
