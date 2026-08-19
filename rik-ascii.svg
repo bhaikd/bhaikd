@@ -1,290 +1,280 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 374" width="352" height="374">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 340" width="352" height="340">
   <style>
-    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1px; rx: 10px; ry: 10px; }
-    .dot-red { fill: #ff5f56; }
-    .dot-yellow { fill: #ffbd2e; }
-    .dot-green { fill: #27c93f; }
-    .window-title { font-family: "Fira Code", "Cascadia Code", monospace; font-size: 11px; fill: #8b949e; font-weight: 600; }
+    .bg { fill: #0d1117; rx: 10px; ry: 10px; }
     .ascii-text { font-family: "Fira Code", "Cascadia Code", "Courier New", monospace; font-size: 9.5px; fill: #8b949e; white-space: pre; }
     .cursor { fill: #58a6ff; }
   </style>
-  <rect class="bg" width="352" height="374" />
-  <path d="M 0,10 A 10,10 0 0,1 10,0 L 342,0 A 10,10 0 0,1 352,10 L 352,36 L 0,36 Z" fill="#161b22" />
-  <line x1="0" y1="36" x2="352" y2="36" stroke="#30363d" stroke-width="1" />
-  <circle cx="20" cy="18" r="6" class="dot-red" />
-  <circle cx="40" cy="18" r="6" class="dot-yellow" />
-  <circle cx="60" cy="18" r="6" class="dot-green" />
-  <text x="176" y="22" text-anchor="middle" class="window-title">bhaikd@github ~ portrait.txt</text>
+  <rect class="bg" width="352" height="340" />
   <defs>
     <clipPath id="clip-row-0">
-      <rect x="15" y="50.0" width="0" height="11.5">
+      <rect x="15" y="15.0" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="0.00s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip-row-1">
-      <rect x="15" y="61.5" width="0" height="11.5">
+      <rect x="15" y="26.5" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="0.13s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip-row-2">
-      <rect x="15" y="73.0" width="0" height="11.5">
+      <rect x="15" y="38.0" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="0.26s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip-row-3">
-      <rect x="15" y="84.5" width="0" height="11.5">
+      <rect x="15" y="49.5" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="0.39s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip-row-4">
-      <rect x="15" y="96.0" width="0" height="11.5">
+      <rect x="15" y="61.0" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="0.52s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip-row-5">
-      <rect x="15" y="107.5" width="0" height="11.5">
+      <rect x="15" y="72.5" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="0.65s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip-row-6">
-      <rect x="15" y="119.0" width="0" height="11.5">
+      <rect x="15" y="84.0" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="0.78s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip-row-7">
-      <rect x="15" y="130.5" width="0" height="11.5">
+      <rect x="15" y="95.5" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="0.91s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip-row-8">
-      <rect x="15" y="142.0" width="0" height="11.5">
+      <rect x="15" y="107.0" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="1.04s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip-row-9">
-      <rect x="15" y="153.5" width="0" height="11.5">
+      <rect x="15" y="118.5" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="1.17s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip-row-10">
-      <rect x="15" y="165.0" width="0" height="11.5">
+      <rect x="15" y="130.0" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="1.30s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip-row-11">
-      <rect x="15" y="176.5" width="0" height="11.5">
+      <rect x="15" y="141.5" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="1.43s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip-row-12">
-      <rect x="15" y="188.0" width="0" height="11.5">
+      <rect x="15" y="153.0" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="1.56s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip-row-13">
-      <rect x="15" y="199.5" width="0" height="11.5">
+      <rect x="15" y="164.5" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="1.69s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip-row-14">
-      <rect x="15" y="211.0" width="0" height="11.5">
+      <rect x="15" y="176.0" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="1.81s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip-row-15">
-      <rect x="15" y="222.5" width="0" height="11.5">
+      <rect x="15" y="187.5" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="1.94s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip-row-16">
-      <rect x="15" y="234.0" width="0" height="11.5">
+      <rect x="15" y="199.0" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="2.07s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip-row-17">
-      <rect x="15" y="245.5" width="0" height="11.5">
+      <rect x="15" y="210.5" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="2.20s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip-row-18">
-      <rect x="15" y="257.0" width="0" height="11.5">
+      <rect x="15" y="222.0" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="2.33s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip-row-19">
-      <rect x="15" y="268.5" width="0" height="11.5">
+      <rect x="15" y="233.5" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="2.46s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip-row-20">
-      <rect x="15" y="280.0" width="0" height="11.5">
+      <rect x="15" y="245.0" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="2.59s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip-row-21">
-      <rect x="15" y="291.5" width="0" height="11.5">
+      <rect x="15" y="256.5" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="2.72s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip-row-22">
-      <rect x="15" y="303.0" width="0" height="11.5">
+      <rect x="15" y="268.0" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="2.85s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip-row-23">
-      <rect x="15" y="314.5" width="0" height="11.5">
+      <rect x="15" y="279.5" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="2.98s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip-row-24">
-      <rect x="15" y="326.0" width="0" height="11.5">
+      <rect x="15" y="291.0" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="3.11s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip-row-25">
-      <rect x="15" y="337.5" width="0" height="11.5">
+      <rect x="15" y="302.5" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="3.24s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
     <clipPath id="clip-row-26">
-      <rect x="15" y="349.0" width="0" height="11.5">
+      <rect x="15" y="314.0" width="0" height="11.5">
         <animate attributeName="width" from="0" to="322.4" begin="3.37s" dur="0.13s" fill="freeze" />
       </rect>
     </clipPath>
   </defs>
   <g class="ascii-text">
-    <text x="15" y="58.5" clip-path="url(#clip-row-0)">                                                    </text>
-    <text x="15" y="70.0" clip-path="url(#clip-row-1)">                                                    </text>
-    <text x="15" y="81.5" clip-path="url(#clip-row-2)">                                                    </text>
-    <text x="15" y="93.0" clip-path="url(#clip-row-3)">                                                    </text>
-    <text x="15" y="104.5" clip-path="url(#clip-row-4)">                                                    </text>
-    <text x="15" y="116.0" clip-path="url(#clip-row-5)">                                                    </text>
-    <text x="15" y="127.5" clip-path="url(#clip-row-6)">                                                    </text>
-    <text x="15" y="139.0" clip-path="url(#clip-row-7)">                           .                        </text>
-    <text x="15" y="150.5" clip-path="url(#clip-row-8)">                    `==-::==-.:-:.                  </text>
-    <text x="15" y="162.0" clip-path="url(#clip-row-9)">                 `-*cscss*c*cs#ss*-                 </text>
-    <text x="15" y="173.5" clip-path="url(#clip-row-10)">               .:*c+*cc#%#c*s#+=ss-                 </text>
-    <text x="15" y="185.0" clip-path="url(#clip-row-11)">               -+sccsscsc+-`:=::-+:                 </text>
-    <text x="15" y="196.5" clip-path="url(#clip-row-12)">               -s#s#*+c*-. `=*ss+c+                 </text>
-    <text x="15" y="208.0" clip-path="url(#clip-row-13)">                +##=`+:-+.  .:+-``:`.               </text>
-    <text x="15" y="219.5" clip-path="url(#clip-row-14)">                .s#*`:.`=:``:--*=+=`                </text>
-    <text x="15" y="231.0" clip-path="url(#clip-row-15)">                 .s#c=c+=--==-+c-*-                 </text>
-    <text x="15" y="242.5" clip-path="url(#clip-row-16)">                  `%s+==c***+=+--c:                 </text>
-    <text x="15" y="254.0" clip-path="url(#clip-row-17)">                   -*:`-*sssc*c*cc                  </text>
-    <text x="15" y="265.5" clip-path="url(#clip-row-18)">             .:-:`. `::=+***cs*+-.                  </text>
-    <text x="15" y="277.0" clip-path="url(#clip-row-19)">           .`--:---` .=++===c=                      </text>
-    <text x="15" y="288.5" clip-path="url(#clip-row-20)">        `:::--==-=+*= .+c*+*c*:                     </text>
-    <text x="15" y="300.0" clip-path="url(#clip-row-21)">      .-:`=+=-`=scc+=+` =sccc+#c`                   </text>
-    <text x="15" y="311.5" clip-path="url(#clip-row-22)">     `++*c+*+=*`-*c+-==-:-+#c=cs*-.                 </text>
-    <text x="15" y="323.0" clip-path="url(#clip-row-23)">    .-*ss#+--+*s:+:*#c-:-: `:++*cs-:                </text>
-    <text x="15" y="334.5" clip-path="url(#clip-row-24)">    ==csc*+`::-**==:+*sc::=:-=`-#s-:=`              </text>
-    <text x="15" y="346.0" clip-path="url(#clip-row-25)">  .-==**===-```+c**:--+ss++*cc.=cc*=++              </text>
-    <text x="15" y="357.5" clip-path="url(#clip-row-26)">  `--:-++*++-:`-ccc*::c**c#c#+`+:csc*+-             </text>
-    <rect class="cursor" y="50.0" height="11.5" width="7">
+    <text x="15" y="23.0" clip-path="url(#clip-row-0)">========++++++++++++++++-----------------:+sssssssss</text>
+    <text x="15" y="34.5" clip-path="url(#clip-row-1)">+=++===+++++++++++++++++-----------------:+sssssssss</text>
+    <text x="15" y="46.0" clip-path="url(#clip-row-2)">++++++++++++++++++++++++-----------------:*sssssssss</text>
+    <text x="15" y="57.5" clip-path="url(#clip-row-3)">++++++++++++++++++++++++------------------*sssssssss</text>
+    <text x="15" y="69.0" clip-path="url(#clip-row-4)">++++++++++++++++++++++++------------------*sssssssss</text>
+    <text x="15" y="80.5" clip-path="url(#clip-row-5)">++++++++++++++++++++++++------------------*sssssssss</text>
+    <text x="15" y="92.0" clip-path="url(#clip-row-6)">++++++++++++++++++++++++------------------*sssssssss</text>
+    <text x="15" y="103.5" clip-path="url(#clip-row-7)">++++++++++++++++++++++++--===-------------*sssssssss</text>
+    <text x="15" y="115.0" clip-path="url(#clip-row-8)">++++++++++++++++*++**ssc**scc+**+=--------*sssssssss</text>
+    <text x="15" y="126.5" clip-path="url(#clip-row-9)">++++++++++++****+*cs###%######%##c*-------*sssssssss</text>
+    <text x="15" y="138.0" clip-path="url(#clip-row-10)">+++++++**********s#s###%%%#s##**##*-------*sssssssss</text>
+    <text x="15" y="149.5" clip-path="url(#clip-row-11)">+++************cs###%%###c+:=+-=+c*===----csssssssss</text>
+    <text x="15" y="161.0" clip-path="url(#clip-row-12)">++*************s%%#%sc#s+:`:+*##csc======-csssssssss</text>
+    <text x="15" y="172.5" clip-path="url(#clip-row-13)">+***************#%%*-*=++:```-*=::+*+====-csssssssss</text>
+    <text x="15" y="184.0" clip-path="url(#clip-row-14)">****************c#%s:-::=--:---*=+**++++==csssssssss</text>
+    <text x="15" y="195.5" clip-path="url(#clip-row-15)">*****************c#%c=*+=====-+*=*c****+==csssssssss</text>
+    <text x="15" y="207.0" clip-path="url(#clip-row-16)">******************c%c===++**+++++cc*c***+=csssssssss</text>
+    <text x="15" y="218.5" clip-path="url(#clip-row-17)">**************c*cc*-=::-+csssccccscccc**+=csssssssss</text>
+    <text x="15" y="230.0" clip-path="url(#clip-row-18)">***********cc*=-:-` `::-+*ccs####sccsccc+=csssssssss</text>
+    <text x="15" y="241.5" clip-path="url(#clip-row-19)">***********+=:`````` .-=+++cssccsssssscc*+csssssssss</text>
+    <text x="15" y="253.0" clip-path="url(#clip-row-20)">********=-:::-=-:--=-..=c*css#sssssssssc*+csssssssss</text>
+    <text x="15" y="264.5" clip-path="url(#clip-row-21)">******=:``===-`=c*+=-=`.=####s%#s##s#ssc**ssssssssss</text>
+    <text x="15" y="276.0" clip-path="url(#clip-row-22)">****c*=+++=+==+::+*=-==-:=c%sc##sss##sssc*csssssssss</text>
+    <text x="15" y="287.5" clip-path="url(#clip-row-23)">***cc=+***=--=+c-=-*s*--+-`-+css#s*cs#ssc*ssssssssss</text>
+    <text x="15" y="299.0" clip-path="url(#clip-row-24)">**c*=-**++=:::-++==-+*sc=+*+*c+*##*+csscc*ssssssssss</text>
+    <text x="15" y="310.5" clip-path="url(#clip-row-25)">*c*-==++===-:::=*++-==*ss**css=cssscscccc*ssssssssss</text>
+    <text x="15" y="322.0" clip-path="url(#clip-row-26)">cc=----=====--:-****-=cccs#s#c=c+s##scccc*ssssssssss</text>
+    <rect class="cursor" y="15.0" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="0.00s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.00s" dur="0.13s" fill="freeze" />
     </rect>
-    <rect class="cursor" y="61.5" height="11.5" width="7">
+    <rect class="cursor" y="26.5" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="0.13s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.13s" dur="0.13s" fill="freeze" />
     </rect>
-    <rect class="cursor" y="73.0" height="11.5" width="7">
+    <rect class="cursor" y="38.0" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="0.26s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.26s" dur="0.13s" fill="freeze" />
     </rect>
-    <rect class="cursor" y="84.5" height="11.5" width="7">
+    <rect class="cursor" y="49.5" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="0.39s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.39s" dur="0.13s" fill="freeze" />
     </rect>
-    <rect class="cursor" y="96.0" height="11.5" width="7">
+    <rect class="cursor" y="61.0" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="0.52s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.52s" dur="0.13s" fill="freeze" />
     </rect>
-    <rect class="cursor" y="107.5" height="11.5" width="7">
+    <rect class="cursor" y="72.5" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="0.65s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.65s" dur="0.13s" fill="freeze" />
     </rect>
-    <rect class="cursor" y="119.0" height="11.5" width="7">
+    <rect class="cursor" y="84.0" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="0.78s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.78s" dur="0.13s" fill="freeze" />
     </rect>
-    <rect class="cursor" y="130.5" height="11.5" width="7">
+    <rect class="cursor" y="95.5" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="0.91s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.91s" dur="0.13s" fill="freeze" />
     </rect>
-    <rect class="cursor" y="142.0" height="11.5" width="7">
+    <rect class="cursor" y="107.0" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="1.04s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.04s" dur="0.13s" fill="freeze" />
     </rect>
-    <rect class="cursor" y="153.5" height="11.5" width="7">
+    <rect class="cursor" y="118.5" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="1.17s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.17s" dur="0.13s" fill="freeze" />
     </rect>
-    <rect class="cursor" y="165.0" height="11.5" width="7">
+    <rect class="cursor" y="130.0" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="1.30s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.30s" dur="0.13s" fill="freeze" />
     </rect>
-    <rect class="cursor" y="176.5" height="11.5" width="7">
+    <rect class="cursor" y="141.5" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="1.43s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.43s" dur="0.13s" fill="freeze" />
     </rect>
-    <rect class="cursor" y="188.0" height="11.5" width="7">
+    <rect class="cursor" y="153.0" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="1.56s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.56s" dur="0.13s" fill="freeze" />
     </rect>
-    <rect class="cursor" y="199.5" height="11.5" width="7">
+    <rect class="cursor" y="164.5" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="1.69s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.69s" dur="0.13s" fill="freeze" />
     </rect>
-    <rect class="cursor" y="211.0" height="11.5" width="7">
+    <rect class="cursor" y="176.0" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="1.81s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.81s" dur="0.13s" fill="freeze" />
     </rect>
-    <rect class="cursor" y="222.5" height="11.5" width="7">
+    <rect class="cursor" y="187.5" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="1.94s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.94s" dur="0.13s" fill="freeze" />
     </rect>
-    <rect class="cursor" y="234.0" height="11.5" width="7">
+    <rect class="cursor" y="199.0" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="2.07s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="2.07s" dur="0.13s" fill="freeze" />
     </rect>
-    <rect class="cursor" y="245.5" height="11.5" width="7">
+    <rect class="cursor" y="210.5" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="2.20s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="2.20s" dur="0.13s" fill="freeze" />
     </rect>
-    <rect class="cursor" y="257.0" height="11.5" width="7">
+    <rect class="cursor" y="222.0" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="2.33s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="2.33s" dur="0.13s" fill="freeze" />
     </rect>
-    <rect class="cursor" y="268.5" height="11.5" width="7">
+    <rect class="cursor" y="233.5" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="2.46s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="2.46s" dur="0.13s" fill="freeze" />
     </rect>
-    <rect class="cursor" y="280.0" height="11.5" width="7">
+    <rect class="cursor" y="245.0" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="2.59s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="2.59s" dur="0.13s" fill="freeze" />
     </rect>
-    <rect class="cursor" y="291.5" height="11.5" width="7">
+    <rect class="cursor" y="256.5" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="2.72s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="2.72s" dur="0.13s" fill="freeze" />
     </rect>
-    <rect class="cursor" y="303.0" height="11.5" width="7">
+    <rect class="cursor" y="268.0" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="2.85s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="2.85s" dur="0.13s" fill="freeze" />
     </rect>
-    <rect class="cursor" y="314.5" height="11.5" width="7">
+    <rect class="cursor" y="279.5" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="2.98s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="2.98s" dur="0.13s" fill="freeze" />
     </rect>
-    <rect class="cursor" y="326.0" height="11.5" width="7">
+    <rect class="cursor" y="291.0" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="3.11s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="3.11s" dur="0.13s" fill="freeze" />
     </rect>
-    <rect class="cursor" y="337.5" height="11.5" width="7">
+    <rect class="cursor" y="302.5" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="3.24s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="3.24s" dur="0.13s" fill="freeze" />
     </rect>
-    <rect class="cursor" y="349.0" height="11.5" width="7">
+    <rect class="cursor" y="314.0" height="11.5" width="7">
       <animate attributeName="x" from="15" to="337.4" begin="3.37s" dur="0.13s" fill="freeze" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="3.37s" dur="0.13s" fill="freeze" />
     </rect>
